@@ -58,19 +58,16 @@ first div in the grid  and place it in the grid. */
 .about {
      grid-column: 2 / span 1;
      grid-row-start: 2;
-     overflow-y: auto" tabindex="0"
 }
 
 .method {
      grid-column: 2 / span 1;
      grid-row-start: 3;
-     overflow-y: auto" tabindex="0"
 }
 
 .clients {
      grid-column: 2 / span 1;
      grid-row-start: 4;
-     overflow-y: auto" tabindex="0"
 }
 
 .contact {
